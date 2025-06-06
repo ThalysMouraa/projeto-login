@@ -28,7 +28,7 @@ section#login{
     left: 50%;
     position: absolute;
     background-color: white;
-    width: 250px;
+    width: 300px;
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px black;
@@ -51,6 +51,16 @@ section#login > div#imagem{
 section#login > div#formulario{
     display: block;
     padding: 10px;
+}
+
+div#formulario > h1{
+    text-align: center;
+    margin: 10px;
+    
+}
+
+div#formulario > p{
+    font-size: 0.8em;
 }
 
 
